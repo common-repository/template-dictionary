@@ -1,0 +1,296 @@
+# Copyright (C) 2017 Template Dictionary
+# This file is distributed under the same license as the Template Dictionary package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Template Dictionary 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/template-dictionary\n"
+"POT-Creation-Date: 2017-08-09 13:14:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/admin.php:190 admin/admin.php:191
+msgid "Settings list"
+msgstr ""
+
+#: admin/admin.php:198 admin/admin.php:199
+msgid "Add settings"
+msgstr ""
+
+#: admin/admin.php:206 admin/admin.php:207
+msgid "Add value"
+msgstr ""
+
+#: admin/admin.php:214 admin/admin.php:215 admin/admin.php:666
+msgid "Export/Import"
+msgstr ""
+
+#: admin/admin.php:251
+msgid "Number of items per page:"
+msgstr ""
+
+#: admin/admin.php:263 admin/admin.php:308 admin/admin.php:352
+#: admin/admin.php:506 admin/admin.php:613
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin/admin.php:285
+msgid "The value was successfully deleted."
+msgstr ""
+
+#: admin/admin.php:288
+msgid "The value was not deleted."
+msgstr ""
+
+#: admin/admin.php:329
+msgid "The setting was successfully deleted."
+msgstr ""
+
+#: admin/admin.php:332
+msgid "The setting was not deleted."
+msgstr ""
+
+#: admin/admin.php:368
+msgid "The code is not valid."
+msgstr ""
+
+#: admin/admin.php:373 admin/admin.php:389
+msgid "This code already exists."
+msgstr ""
+
+#: admin/admin.php:380
+msgid "The setting was successfully updated."
+msgstr ""
+
+#: admin/admin.php:383
+msgid "The setting was not updated."
+msgstr ""
+
+#: admin/admin.php:396
+msgid "The setting was successfully saved."
+msgstr ""
+
+#: admin/admin.php:399
+msgid "The setting was not saved."
+msgstr ""
+
+#: admin/admin.php:415
+msgid "The setting was not found."
+msgstr ""
+
+#: admin/admin.php:421
+msgid "Add/Edit setting"
+msgstr ""
+
+#: admin/admin.php:432 admin/admin.php:582 admin/list-table-settings.php:59
+#: admin/list-table-values.php:60
+msgid "Code"
+msgstr ""
+
+#: admin/admin.php:435
+msgid "Use only these characters: %s."
+msgstr ""
+
+#: admin/admin.php:435
+msgid "First character must be from following: %s."
+msgstr ""
+
+#: admin/admin.php:439 admin/list-table-settings.php:60
+msgid "Type"
+msgstr ""
+
+#: admin/admin.php:462 admin/list-table-settings.php:61
+msgid "Options"
+msgstr ""
+
+#: admin/admin.php:487 admin/admin.php:595
+msgid "Save"
+msgstr ""
+
+#: admin/admin.php:493
+msgid "Edit values"
+msgstr ""
+
+#: admin/admin.php:529
+msgid "The value \"%1$s\" for lang \"%2$s\" is not valid."
+msgstr ""
+
+#: admin/admin.php:534
+msgid "The values were successfully saved."
+msgstr ""
+
+#: admin/admin.php:537
+msgid "Some values were not saved."
+msgstr ""
+
+#: admin/admin.php:542 admin/admin.php:546 admin/admin.php:560
+#: admin/admin.php:564
+msgid "Setting was not found."
+msgstr ""
+
+#: admin/admin.php:570
+msgid "Edit value"
+msgstr ""
+
+#: admin/admin.php:588 admin/list-table-values.php:62
+msgid "Value"
+msgstr ""
+
+#: admin/admin.php:600
+msgid "Edit settings"
+msgstr ""
+
+#: admin/admin.php:626
+msgid "No records found, XML was not created."
+msgstr ""
+
+#: admin/admin.php:632
+msgid "XML was created."
+msgstr ""
+
+#: admin/admin.php:634
+msgid "Download file"
+msgstr ""
+
+#: admin/admin.php:640
+msgid "XML was not created."
+msgstr ""
+
+#: admin/admin.php:649
+msgid "The XML file could not be loaded."
+msgstr ""
+
+#: admin/admin.php:652
+msgid "Settings and values were not imported."
+msgstr ""
+
+#: admin/admin.php:655
+msgid "Settings and values were imported."
+msgstr ""
+
+#: admin/admin.php:659
+msgid "Please attach an XML file."
+msgstr ""
+
+#: admin/admin.php:668 admin/admin.php:726
+msgid "Export"
+msgstr ""
+
+#: admin/admin.php:703
+msgid "What to export"
+msgstr ""
+
+#: admin/admin.php:706
+msgid "Settings and values"
+msgstr ""
+
+#: admin/admin.php:707
+msgid "Settings only"
+msgstr ""
+
+#: admin/admin.php:713
+msgid "Languages to export"
+msgstr ""
+
+#: admin/admin.php:731 admin/admin.php:760
+msgid "Import"
+msgstr ""
+
+#: admin/admin.php:742
+msgid "XML file"
+msgstr ""
+
+#: admin/admin.php:747
+msgid "Import type"
+msgstr ""
+
+#: admin/admin.php:750
+msgid "Delete settings and import all"
+msgstr ""
+
+#: admin/admin.php:751
+msgid "Update settings and import new"
+msgstr ""
+
+#: admin/admin.php:752
+msgid "Import only new settings"
+msgstr ""
+
+#: admin/list-table-settings.php:36 admin/list-table-values.php:36
+msgid "Edit"
+msgstr ""
+
+#: admin/list-table-settings.php:37 admin/list-table-values.php:40
+msgid "Delete"
+msgstr ""
+
+#: admin/list-table-settings.php:154 admin/list-table-values.php:195
+msgid "No settings found."
+msgstr ""
+
+#: admin/list-table-values.php:61
+msgid "Language"
+msgstr ""
+
+#: admin/types/media.php:23 admin/types/media.php:62
+msgid "mime types"
+msgstr ""
+
+#: admin/types/media.php:24
+msgid "separate multiple mime types with commas"
+msgstr ""
+
+#: admin/types/media.php:58
+msgid "Choose File"
+msgstr ""
+
+#: admin/types/media.php:59
+msgid "Remove"
+msgstr ""
+
+#: admin/types/number.php:23 admin/types/number.php:39
+msgid "minimal value"
+msgstr ""
+
+#: admin/types/number.php:27 admin/types/number.php:42
+msgid "maximal value"
+msgstr ""
+
+#: admin/types/post.php:23
+msgid "post type(s)"
+msgstr ""
+
+#: admin/types/post.php:24
+msgid "separate multiple post types with commas"
+msgstr ""
+
+#: admin/types/select.php:21
+msgid "options"
+msgstr ""
+
+#: admin/types/select.php:22
+msgid "every option on single line"
+msgstr ""
+
+#: admin/types/select.php:26
+msgid "use select2"
+msgstr ""
+
+#: admin/types/string.php:23 admin/types/string.php:32 admin/types/text.php:23
+#: admin/types/text.php:32
+msgid "max length"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Template Dictionary"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin for developers which provides template variables dictionary editable in backend."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Radovan Kneblík"
+msgstr ""

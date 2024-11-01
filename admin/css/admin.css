@@ -1,0 +1,18 @@
+.form-table.type-options { display: none; }
+
+.wp-list-table .column-code { width: 250px; }
+.wp-list-table .column-lang { width: 100px; }
+.wp-list-table .column-type { width: 200px; }
+
+.settings-options-container { display: flex; flex-wrap: wrap; margin-bottom: -10px; }
+.settings-options-container .item { margin: 0 10px 10px 0; min-width: 100px; }
+.settings-options-container .name { display: block; font-weight: bold; }
+
+.template-dictionary-wrap select { width: 250px; }
+
+.select2-results li { margin-bottom: 0; min-height: 1em; }
+
+.media-wrapper .file-name { margin-bottom: 5px; }
+.file-name { display: block; }
+
+#adminmenu .toplevel_page_template_dictionary ul li:last-child { display: none; }
